@@ -1,0 +1,4 @@
+Cách chạy file
+    - Chọn kernel min_ds-env
+    - Cài thư viện plotly - cú pháp: pip install plotly
+    - Run all
