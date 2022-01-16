@@ -18,4 +18,4 @@ Vậy có mối liên hệ nào giữa các yếu tố khác ảnh hưởng tớ
 Link sheet kế hoạch làm việc [ở đây](https://docs.google.com/spreadsheets/d/1ErZwX0U6xjCtr_81Z9ns5TBKtdpv8WacBYsgbJ2ZPl8/edit?usp=sharing)
 
 ### Cách chạy project
-Chọn Kernel -> Restart & Run All
+Đọc file [HowToRun.txt](./HowToRun.txt)
